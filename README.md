@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">👋 Hello! I'm Vi_</h1>
 
-<!--
-**lkbxob/lkbxob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5 align="center">
+ស្រាវជ្រាវ អ្នកអភិវឌ្ឍន៍ និងអ្នករចនា ខ្ញុំប្រើប្រាស់ Learn Design concepts ដើម្បីបង្កើតផលិតផលឌីជីថល។ Zero-truth OR ភាពឯកជនគឺជាអ្វីដែលខ្ញុំឱ្យតម្លៃបំផុត។
+</h5>
+<p align="center">
+  When I'm not coding find me taking photos or trying to jump out of the nearest plane. 
+</p>
+<div align="center">
+  
+ ![My Skills](https://skillicons.dev/icons?i=kali,windows,github,git,ai,azure,ps,tailwind,vscode&perline=3)
+</div>
+<br>
 
-Here are some ideas to get you started:
+<h3 align="center">How I'd define myself...literally</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ```php
+<?php
+class V {
+    public $name;
+    public $age;
+    public $work;
+    public $education;
+    public $hobbies;
+
+    public function __construct() {
+        $this->name = 'Vi_';
+        $this->age = 404;
+        $this->work = ['YouTube', 'Github', 'Meta', 'Google'];
+        $this->education = ['Kratie', 'SSCC', 'RBBHS', 'RPITTS', 'Siem Reap'];
+        $this->hobbies = ['Caffee Internet', 'Research', 'Walking Around'];
+    }
+
+    public function current_location() {
+        return 'សៀមរា​, ១៧​, កម្ពុជា';
+    }
+
+    public function next_locations() {
+        return ['Null, Null', 'Null, Null'];
+    }
+
+    public function currently() {
+        return [
+            'studying' => ['Network Security'],
+            'reading' => ['Top Secret', 'Work with AI'],
+            'tinkering' => ['Program', 'OSINT', 'Pen Testing']
+        ];
+    }
+}
+?>
+
+ ```
+ 
+<br>
+
+### What I always play with
+<p> 
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,github,php,vscode" />
+  </a>
+</p>
+</p>
+
+<br>
+
+### What I sometimes play with
+<p align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,php,python,cpp,github" />
+  </a>
+</p>
+</p>
+
+<br>
+
+### Quick stats about me
+| Github Stats 
+###
+
+<h3 align="center">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lkbxob&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/lkbxob/count.svg?"  />
+</div>
+
+###
