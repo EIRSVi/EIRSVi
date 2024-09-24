@@ -35,6 +35,7 @@ class V {
        $this->socialNetworks = [ // Initialize social networks
            'Twitter' => 'https://twitter.com/lkbxob',
            'LinkedIn' => 'https://linkedin.com/in/srievi',
+           'YouTube' => 'https://youtube.com/c/srievi',
           
        ];
    }
