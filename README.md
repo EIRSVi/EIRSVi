@@ -17,35 +17,43 @@
  ```php
 <?php
 class V {
-    public $name;
-    public $age;
-    public $work;
-    public $education;
-    public $hobbies;
+   public $name;
+   public $age;
+   public $work;
+   public $education;
+   public $hobbies;
+   public $email; 
+   public $socialNetworks; 
 
-    public function __construct() {
-        $this->name = 'Vi_';
-        $this->age = 404;
-        $this->work = ['YouTube', 'Github', 'Meta', 'Google'];
-        $this->education = ['Kratie', 'SSCC', 'RBBHS', 'RPITTS', 'Siem Reap'];
-        $this->hobbies = ['Caffee Internet', 'Research', 'Walking Around'];
-    }
+   public function __construct() {
+       $this->name = 'Vi_';
+       $this->age = 404;
+       $this->work = ['YouTube', 'Github', 'Meta', 'Google'];
+       $this->education = ['Kratie', 'SSCC', 'RBBHS', 'RPITTS', 'Siem Reap'];
+       $this->hobbies = ['Caffee Internet', 'Research', 'Walking Around'];
+       $this->email = 'srieviofficial@protonmail.com'; // Initialize email
+       $this->socialNetworks = [ // Initialize social networks
+           'Twitter' => 'https://twitter.com/lkbxob',
+           'LinkedIn' => 'https://linkedin.com/in/srievi',
+          
+       ];
+   }
 
-    public function current_location() {
-        return 'សៀមរា​, ១៧​, កម្ពុជា';
-    }
+   public function current_location() {
+       return 'សៀមរា​, ១៧​, កម្ពុជា';
+   }
 
-    public function next_locations() {
-        return ['Null, Null', 'Null, Null'];
-    }
+   public function next_locations() {
+       return ['Null, Null', 'Null, Null'];
+   }
 
-    public function currently() {
-        return [
-            'studying' => ['Network Security'],
-            'reading' => ['Top Secret', 'Work with AI'],
-            'tinkering' => ['Program', 'OSINT', 'Pen Testing']
-        ];
-    }
+   public function currently() {
+       return [
+           'studying' => ['Network Security'],
+           'reading' => ['Top Secret', 'Work with AI'],
+           'tinkering' => ['Program', 'OSINT', 'Pen Testing']
+       ];
+   }
 }
 ?>
 
