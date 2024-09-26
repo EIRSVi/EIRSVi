@@ -4,20 +4,7 @@
 ស្រាវជ្រាវ អ្នកអភិវឌ្ឍន៍ និងអ្នករចនា ខ្ញុំប្រើប្រាស់ Learn Design concepts ដើម្បីបង្កើតផលិតផលឌីជីថល។ Zero-truth OR ភាពឯកជនគឺជាអ្វីដែលខ្ញុំឱ្យតម្លៃបំផុត។
 </h5>
 <p align="center">
-  ## 🏆 GitHub Achievements
 
-- **Quickdraw** - Closed an issue or a pull request within 5 minutes.
-- **Gitty up!** - Made your first pull request.
-- **YOLO** - Merged a pull request without code review.
-- **Pull Shark** - Merged a pull request and earned a Pull Shark badge.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkbxob&show_icons=true&theme=radical)
-
----
   When I'm not coding find me taking photos or trying to jump out of the nearest plane. 
 </p>
 <div align="center">
@@ -99,9 +86,10 @@ class V {
 <br>
 
 ### Quick stats about me
-| Github Stats 
-###
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkbxob&show_icons=true&theme=radical)
+
+---
 <h3 align="center">🔥 My Stats :</h3>
 
 ###
