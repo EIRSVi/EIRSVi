@@ -96,11 +96,8 @@ class V {
 </div>
 
   <div align="center>
-    ---
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkbxob&show_icons=true&theme=radical)
 
----
   </div>
 
 
