@@ -18,46 +18,51 @@
  ```php
 <?php
 class V {
-   public $name;
-   public $age;
-   public $work;
-   public $education;
-   public $hobbies;
-   public $email; 
-   public $socialNetworks; 
+  public $name;
+  public $age;
+  public $work;
+  public $education;
+  public $hobbies;
+  public $email;
+  public $socialNetworks;
+  public $skills;
+  public $values;
+  public $projects;
 
-   public function __construct() {
-       $this->name = 'Vi_';
-       $this->age = 404;
-       $this->work = ['YouTube', 'Github', 'Meta', 'Google'];
-       $this->education = ['Kratie', 'SSCC', 'RBBHS', 'RPITTS', 'Siem Reap'];
-       $this->hobbies = ['Caffee Internet', 'Research', 'Walking Around'];
-       $this->email = 'srieviofficial@protonmail.com'; // Initialize email
-       $this->socialNetworks = [ // Initialize social networks
-           'Twitter' => 'https://twitter.com/lkbxob',
-           'LinkedIn' => 'https://linkedin.com/in/srievi',
-           'YouTube' => 'https://youtube.com/c/srievi',
-          
-       ];
-   }
+  public function __construct() {
+      $this->name = 'Vi_';
+      $this->age = 404;
+      $this->work = ['YouTube', 'Github', 'Meta', 'Google'];
+      $this->education = ['Kratie', 'SSCC', 'RBBHS', 'RPITTS', 'Siem Reap'];
+      $this->hobbies = ['Caffee Internet', 'Research', 'Walking Around'];
+      $this->email = 'srieviofficial@protonmail.com';
+      $this->socialNetworks = [
+          'Twitter' => 'https://twitter.com/lkbxob',
+          'LinkedIn' => 'https://linkedin.com/in/srievi'
+      ];
 
-   public function current_location() {
-       return 'សៀមរា​, ១៧​, កម្ពុជា';
-   }
+      $this->skills = ['Python', 'PHP', 'Kali Linux', 'Web Scraping'];
+      $this->values = ['Privacy Advocate', 'Zero-Trust Enthusiast'];
+      $this->projects = [
+          'Facebook Video Downloader' => 'https://github.com/lkbxob/fb.py'
+          'YouTube Video Downloader' => 'https://github.com/lkbxob/yt.py'
+      ];
+  }
 
-   public function next_locations() {
-       return ['Null, Null', 'Null, Null'];
-   }
+  public function current_location() {
+      return 'សៀមរា​, ១៧​, កម្ពុជា';
+  }
 
-   public function currently() {
-       return [
-           'studying' => ['Network Security'],
-           'reading' => ['Top Secret', 'Work with AI'],
-           'tinkering' => ['Program', 'OSINT', 'Pen Testing']
-       ];
-   }
+  public function bio() {
+      return 'Researcher | Developer | Designer, focused on privacy and zero-trust tech. Hobbies: Photography, Skydiving.';
+  }
 }
+
+// Usage Example
+$profile = new V();
+echo $profile->bio();
 ?>
+
 
  ```
  
