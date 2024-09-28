@@ -44,8 +44,8 @@ class V {
       $this->skills = ['Python', 'PHP', 'Kali Linux', 'Web Scraping'];
       $this->values = ['Privacy Advocate', 'Zero-Trust Enthusiast'];
       $this->projects = [
-          'Facebook Video Downloader' => 'https://github.com/viwxyz/'
-          'YouTube Video Downloader' => 'https://github.com/viwxyz/'
+          'Facebook Video Downloader' => 'https://github.com/eirsvi/'
+          'YouTube Video Downloader' => 'https://github.com/eirsvi/'
       ];
   }
 
@@ -96,14 +96,14 @@ echo $profile->bio();
 <h3 align="center">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=viwxyz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=eirsvi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 </div>
 <h3 align="center">GitHub Stats </h3>
 <div align="center>
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viwxyz&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eirsvi&show_icons=true&theme=radical)
 
 ---
 
