@@ -37,15 +37,15 @@ class V {
       $this->hobbies = ['Caffee Internet', 'Research', 'Walking Around'];
       $this->email = 'srieviofficial@protonmail.com';
       $this->socialNetworks = [
-          'Twitter' => 'https://twitter.com/lkbxob',
+          'Twitter' => 'https://twitter.com/viwxyz/',
           'LinkedIn' => 'https://linkedin.com/in/srievi'
       ];
 
       $this->skills = ['Python', 'PHP', 'Kali Linux', 'Web Scraping'];
       $this->values = ['Privacy Advocate', 'Zero-Trust Enthusiast'];
       $this->projects = [
-          'Facebook Video Downloader' => 'https://github.com/lkbxob/fb.py'
-          'YouTube Video Downloader' => 'https://github.com/lkbxob/yt.py'
+          'Facebook Video Downloader' => 'https://github.com/viwxyz/'
+          'YouTube Video Downloader' => 'https://github.com/viwxyz/'
       ];
   }
 
@@ -96,14 +96,14 @@ echo $profile->bio();
 <h3 align="center">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lkbxob&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=viwxyz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 </div>
 <h3 align="center">GitHub Stats </h3>
 <div align="center>
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkbxob&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viwxyz&show_icons=true&theme=radical)
 
 ---
 
