@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hello! I'm Vi_</h1>
 
 <h5 align="center">
-ស្រាវជ្រាវ អ្នកអភិវឌ្ឍន៍ និងអ្នករចនា ខ្ញុំប្រើប្រាស់ Learn Design concepts ដើម្បីបង្កើតផលិតផលឌីជីថល។ Zero-truth OR ភាពឯកជនគឺជាអ្វីដែលខ្ញុំឱ្យតម្លៃបំផុត។
+ស្រាវជ្រាវ / អ្នកអភិវឌ្ឍន៍ / និងអ្នករចនា / បង្កើតផលិតផលឌីជីថល។ Zero-truth ឬ ភាពឯកជនគឺជាអ្វីដែលខ្ញុំឱ្យតម្លៃបំផុតនៅលើប្រព័ន្ធអិនធេរនេត។
 </h5>
 <p align="center">
-
-  When I'm not coding find me taking photos or trying to jump out of the nearest plane. 
+**\V/**
 </p>
 <div align="center">
   
@@ -68,7 +67,7 @@ echo $profile->bio();
  
 <br>
 
-### What I always play with
+<h3 align="center"> What I always play with </h3>
 <p> 
   <p align="center">
   <a href="https://skillicons.dev">
@@ -78,8 +77,7 @@ echo $profile->bio();
 </p>
 
 <br>
-
-### What I sometimes play with
+<h3 align="center">What I sometimes play with </h3>
 <p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
@@ -90,20 +88,19 @@ echo $profile->bio();
 
 <br>
 
-### Quick stats about me
-
+<h3 align="center">Quick stats about me</h3>
 
 <h3 align="center">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eirsvi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=EIRSVi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 </div>
 <h3 align="center">GitHub Stats </h3>
 <div align="center>
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eirsvi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EIRSVi&show_icons=true&theme=radical)
 
 ---
 
@@ -112,7 +109,6 @@ echo $profile->bio();
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/lkbxob/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/EIRSVi/count.svg?"  />
 </div>
 
-###
