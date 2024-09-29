@@ -43,8 +43,8 @@ class V {
       $this->skills = ['Python', 'PHP', 'Kali Linux', 'Web Scraping'];
       $this->values = ['Privacy Advocate', 'Zero-Trust Enthusiast'];
       $this->projects = [
-          'Facebook Video Downloader' => 'https://github.com/eirsvi/'
-          'YouTube Video Downloader' => 'https://github.com/eirsvi/'
+          'Explore CQ' => 'https://gist.github.com/EIRSVi'
+          'YouTube Video ' => 'https://github.com/eirsvi/'
       ];
   }
 
