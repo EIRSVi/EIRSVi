@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 👋
-#✌️👇🏻✌️
+✌️👇🏻✌️
 
 [EIRSVi](https://eirsvi.github.io/)
 
