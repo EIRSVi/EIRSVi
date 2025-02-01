@@ -1,9 +1,12 @@
 <div align="center">
 
-  ## Hi there 👋
-# EIRSVi
+## 👋
 
-[About Vi](https://eirsvi.github.io/)
+[EIRSVi](https://eirsvi.github.io/)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,java,laravel,linux,windows,nextjs,py,vscode,idea" />
+  </a>
+</p>
 </div>
