@@ -1,9 +1,9 @@
 <div align="center">
 
-# Welcome to EIRSVi
+  ## Hi there 👋
+# EIRSVi
 
-[Visit our website](https://eirsvi.github.io/)
+[About Vi](https://eirsvi.github.io/)
 
-## Hi there 👋
 
 </div>
